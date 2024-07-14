@@ -6,6 +6,6 @@
 
 <h1>Projedeki Eksilerim ve Artılarım</h1>
 <p><b>Artılarım =></b> Bütün fonksiyonların eksiksiz olarak çalıştığını, vue-cli ekstra olarak atların anlık hızlarının m/s cinsinden gözüktüğünü ve bu hızın pistin uzunluğuna bağlı olarak gerçek süreyle eş zamanlı olarak bitmesini söyleyebiliriz.Örneğin 50m/s hızı varsa 1200m pisti 24 saniyede bitiricek, turların uzun sürmemesi için atların hızları 100-150m/s arasında başlayıp ivmelenmeleri dahilinde artıp azalabilecek şekilde ayarladım.
-<br/>
-<b>Eksilerim =></b> İlk vue-cli,vuex tecrübem olduğundan dolayı, istenilen component kullanımı ne kadar sağlansa da, vuex store kullanımında eksiklik yaşamış olabilirim. Mobil tarafında ise zoom out yaparak ordan da rahatlıkla uygulama deneyimlenebilir yine de bilgisayar ortamındaki kadar rahat bir deneyim sağlayamayacağını düşünüyorum. <br/>
+<br>  
+<b>Eksilerim =></b> İlk vue-cli,vuex tecrübem olduğundan dolayı, istenilen component kullanımı ne kadar sağlansa da, vuex store kullanımında eksiklik yaşamış olabilirim. Mobil tarafında ise zoom out yaparak ordan da rahatlıkla uygulama deneyimlenebilir yine de bilgisayar ortamındaki kadar rahat bir deneyim sağlayamayacağını düşünüyorum.
 </p>
